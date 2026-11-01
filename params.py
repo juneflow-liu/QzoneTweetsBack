@@ -1,5 +1,3 @@
-import requests
-
 cookies = {
     'eas_sid': 'X1D7W7r2R8x0W0b1g8g7h6U442',
     'uin': 'o2926412192',
